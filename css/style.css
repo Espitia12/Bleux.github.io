@@ -96,7 +96,6 @@ footer{
 
 .section3{
     width: 100%;
-    height: 1020px;
     background-color: #1e172f;
     
 }
@@ -469,7 +468,7 @@ footer{
 
 }
 
-@media (max-width: 1279px) {
+@media (max-width: 1280px) {
     body {
         width: 100vw;
         height: 100vh;
@@ -546,7 +545,7 @@ footer{
     }
     .section3 {
         width: 100%;
-        height: 960px;
+
         background-color: #1e172f;
     }
 }
@@ -745,7 +744,6 @@ footer{
     }
     .section3 {
         width: 100%;
-        height: 1505px;
         background-color: #1e172f;
     }
 
@@ -796,7 +794,6 @@ footer{
     }
     .section3 {
         width: 100%;
-        height: 2060px;
         background-color: #1e172f;
     }
     .tarjetas {
@@ -816,6 +813,11 @@ footer{
         height: 55px;
         display: flex;
         justify-content: center;
+    }
+    .section3 {
+        width: 100%;
+        background-color: #1e172f;
+        
     }
 
 
